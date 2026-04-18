@@ -1,0 +1,9 @@
+# invite_codes.txt
+# Format: invite_code, Description
+# Lines starting with # are ignored.
+# The description is what shows up in your monthly admin channel report.
+ 
+jHBywwPJD8, Original Link IowaMesh + IRO
+KTTEpFgfXY, Ham Fest Link
+YG2RHUqjEz, K0IRO Website
+MfAyTDkWeH, Iowa Mesh Website
